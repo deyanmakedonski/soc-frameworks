@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
-  s.name              = 'Test'
+  s.name              = 'MyPOS-Payment'
   s.version           = '1.0.0'
-  s.summary           = 'Test Framework'
+  s.summary           = 'MyPOS-Payment Framework'
   s.homepage          = 'www'
   s.author            = { 'Name' => 'sdk@example.com' }
   s.license           = { :type => 'Apache-2.0', :file => 'LICENSE' }
